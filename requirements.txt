@@ -1,0 +1,15 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+joblib
+Flask
+dill
+#pickle
+imbalanced-learn
+tensorflow
+tensorboard
+streamlit
+kagglehub
+-e .
